@@ -1,53 +1,25 @@
-🚀 **CnvMP3 Auto Converter**
+![iconlong](https://github.com/user-attachments/assets/2b44c04a-fc3c-4936-8ed5-a32a7315766c)
 
-CnvMP3 Auto Converter simplifies video conversion by automatically detecting supported video links from YouTube, TikTok, Instagram Reels, Reddit, Facebook, Twitch, and X/Twitter. With just one click, it opens CnvMP3, selects the correct platform, pastes the URL, and starts the conversion process—all without manual input.
+**CnvMP3 Auto Converter** is a browser extension for **Edge & Chrome** that allows users to **instantly convert videos** from YouTube, TikTok, Instagram, Reddit, Facebook, Twitch, and X/Twitter with **one click**. No copy-pasting required—just press the button, and it auto-fills CnvMP3, selects MP4/1080p, and starts the conversion.  
 
-For TikTok and Instagram, the extension ensures that only valid TikTok Video and Instagram Reel links are used. If an unsupported link is detected, you'll be prompted to enter the correct video URL before conversion, preventing errors and ensuring a smooth process.
+### **🔹 Features:**  
+✅ **One-Click Video Conversion** – Opens CnvMP3 and starts the process automatically.  
+✅ **Supports Multiple Platforms** – YouTube, TikTok, Instagram Reels, Reddit, Facebook, Twitch, and X/Twitter.  
+✅ **Auto-Selects MP4 & 1080p Quality** – Ensuring the best possible video download experience.  
+✅ **Smart Link Handling** – Prompts users if an Instagram or TikTok link isn't a valid video.  
 
-**Key Features:**
+### **📥 Installation Instructions (Manual Install)**  
+1. **Download the `.crx` file** from this release.  
+2. Open **Edge** or **Chrome** and go to:  
+   - `edge://extensions/` for Edge  
+   - `chrome://extensions/` for Chrome  
+3. **Enable Developer Mode** (toggle in the top right).  
+4. **Drag and drop the `.crx` file** into the extensions page.  
+5. Click **"Add"** when prompted.  
 
-✅ One-Click Conversion – No need to copy and paste links manually.
+### **🛠 Future Plans:**  
+- The extension has been **submitted for review** in the Edge Add-ons Store. If approved, it will be available for **easy installation** by the end of the week.  
+- Considering support for **additional video platforms & features** in future updates.  
 
-✅ Supports Multiple Platforms – Works with YouTube, TikTok, Instagram, Reddit, Facebook, Twitch, and X/Twitter.
-
-✅ Auto-Selects MP4 & 1080p Quality – Ensuring the best video download experience.
-
-✅ Effortless Workflow – Just press the extension button and let it do the work.
-
-✅ Smart Link Handling – Prompts for valid TikTok Video and Instagram Reel links if needed.
-
-Perfect for users who frequently save videos for offline use. Try it now and streamline your video downloads!
-
-**Instructions:**
-**Installation & Activation:**
-
-Load the extension in Edge via edge://extensions/ in Developer Mode.
-Click the extension icon in the toolbar to trigger the conversion process.
-
-**Expected Behavior:**
-
-Clicking the extension button opens CnvMP3 in a new tab.
-The extension detects the current tab's URL, selects the appropriate platform, pastes the link, and starts the conversion process.
-For TikTok and Instagram: If the link is not a TikTok Video (/video/) or Instagram Reel (/reel/), a prompt appears asking the user to enter a correct URL.
-
-**Platforms Supported:**
-
-YouTube, TikTok, Instagram Reels, Reddit, Facebook, Twitch, and X/Twitter.
-Videos should load correctly on CnvMP3, and users can manually save downloads.
-
-**Known Limitations:**
-
-The extension does not download converted platforms from ALL platforms automatically. For X/Twitter and Facebook, you must manually save the converted file from CnvMP3.
-The extension does not handle private or restricted videos.
-Edge Permissions Used:
-
-"activeTab" and "tabs" are used to retrieve the current tab's URL.
-"scripting" is used to inject content.js to autofill CnvMP3.
-"host_permissions": ["https://cnvmp3.com/*"] ensures compatibility with the conversion website.
-
-**How to Verify Functionality:**
-
-Open a supported video link (e.g., a YouTube or TikTok video).
-Click the extension button.
-Confirm that CnvMP3 opens, the video URL is pasted correctly, MP4/1080p is selected, and the Convert button is clicked automatically.
+💬 **Feedback & Issues?** Drop them in the issues tab or reach out! 🚀🔥  
 

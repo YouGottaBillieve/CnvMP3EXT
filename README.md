@@ -7,9 +7,13 @@ For TikTok and Instagram, the extension ensures that only valid TikTok Video and
 **Key Features:**
 
 ✅ One-Click Conversion – No need to copy and paste links manually.
+
 ✅ Supports Multiple Platforms – Works with YouTube, TikTok, Instagram, Reddit, Facebook, Twitch, and X/Twitter.
+
 ✅ Auto-Selects MP4 & 1080p Quality – Ensuring the best video download experience.
+
 ✅ Effortless Workflow – Just press the extension button and let it do the work.
+
 ✅ Smart Link Handling – Prompts for valid TikTok Video and Instagram Reel links if needed.
 
 Perfect for users who frequently save videos for offline use. Try it now and streamline your video downloads!
